@@ -1,7 +1,7 @@
 import os
 
 class config:
-    BOT_TOKEN = os.environ.get("5872677224:AAGhyKpeMezsoEDbg7LLo_TCVhAsfsbsiF8")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN")
     APP_ID = int(os.environ.get("APP_ID"))
     API_HASH = os.environ.get("API_HASH")
     DATABASE_URL = os.environ.get("DATABASE_URL")
