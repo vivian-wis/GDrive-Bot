@@ -21,7 +21,7 @@
 ## Deploying
 
 ### Deploy on [Heroku ](https://heroku.com)
-[![oVoIndia](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![oVoIndia](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?=https://github.com/vivian-wis/GDrive-Bot)
 
 ### Installation
 - Install required modules.
